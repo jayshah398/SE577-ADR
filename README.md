@@ -1,7 +1,7 @@
 This Repository defines development of 5 important Architecture Decision Records for PTYOU app.
 
-* [__Database Selection__](https://github.com/jayshah398/SE577-ADR/new/master#:~:text=DatabaseSelection.md)
-* [__HIPAA Compliance Measurement__](https://github.com/jayshah398/SE577-ADR/new/master#:~:text=HIPAAComplianceMeasures.md)
-* [__Mobile Development Technology__](https://github.com/jayshah398/SE577-ADR/new/master#:~:text=MobileDevelopmentTechnology.md)
-* [__Payment Gateway Integration__](https://github.com/jayshah398/SE577-ADR/new/master#:~:text=PaymentGatewayIntegration.md)
-* [__Therapist Verification Process__](https://github.com/jayshah398/SE577-ADR/new/master#:~:text=TherapistVerificationProcess.md)
+* [Database Selection](https://github.com/jayshah398/SE577-ADR/blob/master/DatabaseSelection.md)
+* [HIPAA Compliance Measurement](https://github.com/jayshah398/SE577-ADR/blob/master/HIPAAComplianceMeasures.md)
+* [Mobile Development Technology](https://github.com/jayshah398/SE577-ADR/blob/master/MobileDevelopmentTechnology.md)
+* [Payment Gateway Integration](https://github.com/jayshah398/SE577-ADR/blob/master/PaymentGatewayIntegration.md)
+* [Therapist Verification Process](https://github.com/jayshah398/SE577-ADR/blob/master/TherapistVerificationProcess.md)
