@@ -3,7 +3,7 @@ The PTYou application will handle sensitive patient data, including medical info
 
 ## Decision 
 We will implement the following measures to ensure HIPAA compliance:
-* Data Encryption: All protected health information (PHI) will be encrypted both in transit (using HTTPS) and at rest (using AES-256 encryption).
+* Data Encryption: All protected health information (PHI) will be encrypted both in transit (using HTTPS) and at rest.
 * Access Controls: We will implement strict access controls to limit access to PHI to authorized personnel only.  This includes role-based access control (RBAC) and strong password policies.
 * Audit Trails: We will maintain detailed audit trails of all access to PHI, including who accessed what data and when.
 * Secure Data Storage: We will store PHI in a HIPAA-compliant cloud environment (Google Cloud Platform) with appropriate security measures in place.
